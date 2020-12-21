@@ -7,7 +7,7 @@ My linux machine configuration files.
 Install the necessary packages:
 
 ```
-sudo apt install i3 i3blocks
+sudo apt install i3 i3blocks i3-agenda
 ```
 
 Copy the configuration files:
@@ -21,4 +21,4 @@ cp .Xmodmap ~/.Xmodmap
 
 ### Points to Note
 
-1. Expects the Google credentials at `~/.google_credentials.json`
+1. Expects the Google credentials at `~/.google_credentials.json`. (Refer the [i3-agenda](https://github.com/rosenpin/i3-agenda) repo for instructions)
