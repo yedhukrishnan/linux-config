@@ -16,6 +16,7 @@ Copy the configuration files:
 git clone https://github.com/yedhukrishnan/linux-config.git
 cd linux-config
 cp -r i3 ~/.config
+cp .Xmodmap ~/.Xmodmap
 ```
 
 ### Points to Note

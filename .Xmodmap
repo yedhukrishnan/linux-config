@@ -1,0 +1,5 @@
+clear control
+keycode 37 = Control_R
+add control = Control_R Control_L
+keycode 66 = Control_L
+
